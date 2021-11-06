@@ -2,20 +2,31 @@
 
 <h1>Foodtopia</h1>
 
-You can view the GitHub pages deployed application [here](https://fudge88.github.io/foodtopia/).
+You can view the GitHub pages deployed application [here](https://lianavaleria15.github.io/foodtopia/).
 
 <h2>Table of Contents</h2>
 
 - [Description](#description)
 - [User Story](#user-story)
 - [Technologies Used](#technologies-used)
+    - [Languages](#languages)
+    - [Frameworks used](#frameworks-used)
+    - [APIs](#apis)
 - [API Documentation](#api-documentation)
 - [Contributors](#contributors)
 - [Improvements](#improvements)
 - [Screenshots](#screenshots)
   - [Wireframes](#wireframes)
+    - [INDEX PAGE Large and small screen Wireframe](#index-page-large-and-small-screen-wireframe)
+    - [MENU PAGE Large and small screen Wireframe](#menu-page-large-and-small-screen-wireframe)
+    - [FAVOURITES PAGE Large and small screen Wireframe](#favourites-page-large-and-small-screen-wireframe)
+    - [Large and small screen Wireframe](#large-and-small-screen-wireframe)
   - [Final Website](#final-website)
-  - [References](#References)
+    - [INDEX PAGE screenshot](#index-page-screenshot)
+    - [MENU PAGE screenshot](#menu-page-screenshot)
+    - [FAVOURITES PAGE screenshot](#favourites-page-screenshot)
+    - [RECIPES screenshot](#recipes-screenshot)
+- [References](#references)
 
 ## Description
 
